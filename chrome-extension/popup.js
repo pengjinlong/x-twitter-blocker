@@ -218,7 +218,7 @@ function addKeyword() {
         showStatus(t('duplicate'), 'error');
         return;
     }
-    keywords.push(val);
+    keywords.unshift(val);
     newKeywordInput.value = '';
     renderList();
     saveAndApply();
