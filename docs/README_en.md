@@ -28,7 +28,7 @@
 - 🚫 **Keyword Filtering** — Automatically hides tweets/comments whose text or author name contains blocked keywords
 - 😶 **Emoji Flood Detection** — Blocks tweets/users whose content or display name contains more emojis than your configured threshold (default: > 2)
 - ⚡ **Real-time** — Uses MutationObserver to catch dynamically loaded content on scroll
-- 💾 **Persistent Storage** — Chrome Extension syncs your keyword list via Chrome storage
+- 💾 **Persistent Storage** — Chrome Extension saves your keyword list locally in the browser
 - 🎨 **Visual Management UI** — The Chrome Extension offers a polished popup to manage keywords and adjust the emoji threshold
 - 🪶 **Zero Dependencies** — Pure vanilla JS, no performance overhead
 - 🔒 **Privacy-first** — Everything runs locally; no data is ever uploaded

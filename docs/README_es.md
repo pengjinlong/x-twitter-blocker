@@ -28,7 +28,7 @@
 - 🚫 **Filtrado por palabras clave** — Oculta automáticamente tweets/comentarios y nombres de usuario con palabras bloqueadas
 - 😶 **Detección de avalancha de Emoji** — Bloquea contenido o usuarios cuya cantidad de emojis supera el umbral configurado (por defecto: > 2)
 - ⚡ **Tiempo real** — `MutationObserver` detecta contenido cargado dinámicamente al hacer scroll
-- 💾 **Almacenamiento persistente** — La extensión de Chrome sincroniza las palabras clave con Chrome Storage
+- 💾 **Almacenamiento persistente** — La extensión de Chrome guarda las palabras clave localmente en el navegador
 - 🎨 **Interfaz visual** — La extensión de Chrome ofrece un popup elegante para gestionar palabras clave y el umbral de emojis
 - 🪶 **Sin dependencias** — JavaScript puro, sin impacto en el rendimiento
 - 🔒 **Privacidad** — Todo se procesa localmente, sin envío de datos

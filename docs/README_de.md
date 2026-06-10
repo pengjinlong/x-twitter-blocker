@@ -28,7 +28,7 @@
 - 🚫 **Keyword-Filterung** — Versteckt automatisch Tweets/Kommentare und Anzeigenamen mit gesperrten Schlüsselwörtern
 - 😶 **Emoji-Überflutungserkennung** — Blockiert Inhalte oder Nutzer, deren Anzahl an Emojis den Schwellwert übersteigt (Standard: > 2)
 - ⚡ **Echtzeit** — `MutationObserver` erkennt dynamisch geladene Inhalte beim Scrollen
-- 💾 **Persistente Speicherung** — Chrome-Erweiterung synchronisiert Schlüsselwörter via Chrome Storage
+- 💾 **Persistente Speicherung** — Die Chrome-Erweiterung speichert Ihre Keywords lokal im Browser
 - 🎨 **Visuelles Management-UI** — Die Chrome-Erweiterung bietet ein elegantes Popup zur Verwaltung von Keywords und Emoji-Schwellwert
 - 🪶 **Ohne Abhängigkeiten** — Reines Vanilla JS, keine Performance-Einbußen
 - 🔒 **Datenschutz** — Alles läuft lokal, keine Daten übertragen
