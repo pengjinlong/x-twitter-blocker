@@ -9,6 +9,10 @@
 **语言 / Language:**
 [🇨🇳 中文](README.md) · [🇺🇸 English](docs/README_en.md) · [🇯🇵 日本語](docs/README_ja.md) · [🇰🇷 한국어](docs/README_ko.md) · [🇩🇪 Deutsch](docs/README_de.md) · [🇪🇸 Español](docs/README_es.md)
 
+<br/>
+
+![Chrome Extension Preview](chrome-extension.png)
+
 </div>
 
 ---
